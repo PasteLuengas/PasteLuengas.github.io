@@ -1,0 +1,207 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto Mono', monospace;
+} 
+.padd {
+    padding: 250px;
+}
+
+.header {
+    padding: 10px;
+}
+
+#discord:hover {
+    content:url("../img/dc_azul.png");
+}
+
+#youtube:hover {
+    content:url("../img/yt_rojo.png");
+}
+
+#hey:hover {
+    content:url("../img/hey_azul.png");
+}
+
+#ng:hover {
+    content:url("../img/ng_col.png");
+}
+
+#z:hover {
+    content: url("../img/z_amarillo.png");
+}
+
+#github:hover {
+    content: url("../img/github_rojo.png");
+}
+
+.logopaste:hover{
+    color: rgb(97, 0, 0);
+}
+
+
+.redes {
+    position: fixed;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.proyectos {
+    background-color: rgb(24, 0, 0);
+}
+
+.proyectosNE {
+    background-color: rgb(29, 29, 29);
+}
+
+.proyectosNE {
+    width: 100%;
+}
+
+.proyectos {
+    width: 100%;
+}
+
+.video_container *{
+    width: 200px;
+    height: auto;
+}
+
+.video_container {
+    width: 220px;
+    height: auto;
+}
+
+.video_container {
+    border: solid 0.3px rgb(41, 41, 41)
+}
+
+input{
+    background: black;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.link-menu:hover {
+    background-color:  rgb(97, 0, 0);;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(187, 0, 0);
+}
+
+a:hover{
+        text-decoration: none;
+        color: rgb(230, 0, 0);
+}
+
+.LogoPaste {
+    color: white;
+    font-size: 31px;
+}
+
+article {
+    background-color: rgb(78, 0, 0);
+}
+
+a .extra {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.botonDescarga {
+    background-color: rgb(78, 0, 0);
+    width: 300px;
+    border-radius: 6px;
+}
+
+.botonDescarga a {
+    color: white;
+    font-size: 25px;
+}
+
+.red {
+    text-align: center;
+    border: white 1px solid;
+    width: 320px;
+    border-radius: 12px;
+    height: 230px;
+    max-height: 230px;
+}
+
+.red img {
+    width: 70%;
+}
+
+#red_youtube:hover {
+    background-color:  rgb(78, 0, 0);
+}
+
+a .red:hover {
+    color: white;
+}
+
+#red_discord:hover {
+    background-color:  rgb(0, 65, 185);
+}
+
+#red_newgrounds:hover {
+    background-color:  rgb(219, 168, 0);
+}
+
+#red_z:hover {
+    background-color:  rgb(187, 187, 0);
+}
+
+#red_github:hover {
+    background-color:  rgb(56, 56, 56);
+}
+
+#red_github img{
+    width: 60%;
+}
+
+#red_youtube_extra img {
+    width: 60%;
+}
+
+#red_youtube_extra:hover {
+    background-color:  rgb(78, 0, 0);
+}
+
+#red_bitview img{
+    width: 42%;
+    height: 60%;
+}
+
+#red_bitview:hover {
+    background-color: rgb(0, 109, 182);
+}
+
+#red_steam:hover {
+    background-color: rgb(0, 39, 65);
+}
+
+#red_steam img {
+    width: 50%;
+}
+
+#red_myspace:hover {
+    background-color: rgb(4, 0, 255);
+}
+
+#red_myspace img {
+    width: 50%;
+}
