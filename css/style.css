@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&family=Press+Start+2P&display=swap');
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6, nav, .date  {
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+#subtitle {
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+.navbar-dark {
+    width: 100%; 
+}
+
+.body1 {
+    height: 100px;
+}
+
+.lgns {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.art-image {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+.art2 {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.gallery {
+	display: flex;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.gallery-img {
+	max-width: 50%;
+}
+
+.article_thumb {
+	width: 420px;
+	background-color: rgb(33,37,41);
+	padding: 20px;
+}
+
+.article_thumb img{
+	width: 100%;
+}
+
+.article_thumb:hover {
+	color: grey;
+}
