@@ -75,3 +75,42 @@ a {
 .article_thumb:hover {
 	color: grey;
 }
+
+.projects {
+    display: flex;
+    flex-direction: column;
+}
+
+.project {
+    background-color: rgb(33,37,41);
+    padding: 25px;
+    margin: 20px;
+}
+
+.proj-cont {
+    display: flex;
+    justify-content: center;
+    /*max-width: 800px;*/
+
+}
+
+.proj-cont img{
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+.tag {
+    background-color: rgb(121, 0, 0);
+    color: white;
+    padding: 2.5px;
+    border-radius: 2px;
+}
+
+.link {
+    background-color: rgb(14, 7, 32);
+    color: white;
+    padding: 2.5px;
+    border-radius: 2px; 
+}

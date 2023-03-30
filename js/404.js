@@ -14,7 +14,7 @@ if (NumForLang == 2) {
     document.getElementById("subtitle").innerHTML = "Kurt Cobain in 1995:";
 }
 if (NumForLang == 3) { 
-    document.getElementById("subtitle").innerHTML = "Marciano Cantero in 2023... Vuela alto";
+    document.getElementById("subtitle").innerHTML = "Marciano Cantero in 2023:";
 }
 if (NumForLang == 4) {
     document.getElementById("subtitle").innerHTML = "Joey Ramone in 2002:";

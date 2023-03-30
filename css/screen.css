@@ -1,0 +1,5 @@
+@media screen and (max-width: 1167px) {
+    .proj-cont {
+        flex-direction: column;
+    }
+}
